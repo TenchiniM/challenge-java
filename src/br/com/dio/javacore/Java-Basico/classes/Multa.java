@@ -2,6 +2,8 @@ package br.com.dio.javacore.classes;
 
 import java.util.Scanner;
 
+// Multar carros acima de 60km/h
+
 public class Multa {
     public void verificarMulta() {
         Scanner leitor = new Scanner(System.in);
